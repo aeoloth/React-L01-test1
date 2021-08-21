@@ -1,0 +1,19 @@
+{
+  "name": "react.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeoloth/React-L01-test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeoloth/React-L01-test1/issues"
+  },
+  "homepage": "https://github.com/aeoloth/React-L01-test1#readme"
+}
